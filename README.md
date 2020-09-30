@@ -1,2 +1,2 @@
 # CV
-This is my CV. Starting from Late September 2020.
+This is my CV. Started from Late September 2020.
